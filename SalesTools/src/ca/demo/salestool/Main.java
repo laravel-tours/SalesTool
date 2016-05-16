@@ -12,5 +12,6 @@ public class Main {
 		System.out.println("This apps shows apps data.");
 		
 		System.out.println("Test 1");
+		System.out.println("Test 2");
 	}
 }
